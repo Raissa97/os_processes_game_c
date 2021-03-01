@@ -130,13 +130,23 @@ gcc -std=c89 -pedantic
 
 Esempio di valori di conﬁgurazione:
 “easy” vs “hard”
+
 SO_NUM_G 2 4
+
 SO_NUM_P 10 400
+
 SO_MAX_TIME 3 1
+
 SO_BASE 60 120
+
 SO_ALTEZZA 20 40
+
 SO_FLAG_MIN 5 5
+
 SO_FLAG_MAX 5 40
+
 SO_ROUND_SCORE 10 200
+
 SO_N_MOVES 20 200
+
 SO_MIN_HOLD_NSEC (0.1 sec) 100000000 (0.1 sec) 100000000
