@@ -1,6 +1,5 @@
 # os_project
-
-Progetto SO 2019/20
+# Progetto SO 2019/20
 
 # 1 Descrizione
 Si intende realizzare un gioco in cui dei giocatori competono tra di loro per la conquista di alcune bandierine poste
